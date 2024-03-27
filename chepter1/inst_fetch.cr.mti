@@ -5,6 +5,13 @@ Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
 Top level modules:
 	rom
 
+} {} {}} {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/inst_fetch.v} {1 {vlog -work work -vopt -stats=none {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/inst_fetch.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module inst_fetch
+
+Top level modules:
+	inst_fetch
+
 } {} {}} {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/pc_reg.v} {1 {vlog -work work -vopt -stats=none {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/pc_reg.v}
 Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
 -- Compiling module pc_reg
