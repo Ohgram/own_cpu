@@ -1,12 +1,10 @@
 module rom(
-    input addr,
+    input [5:0] addr,
     input ce,
-    output inst
+    output  reg [31:0] inst
 );
-    wire [5:0]addr;
-    reg [31:0]inst;
     reg[31:0]rom[63:0];
-    $readmemh("rom.data",rom);
+    initial $readmemh("rom.data",rom);
     always@(*)begin
         if(ce)
             inst<=rom[addr];

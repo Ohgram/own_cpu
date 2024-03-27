@@ -1,10 +1,10 @@
 module pc_reg(
     input rst,
     input clk,
-    output pc,
-    output ce
+    output reg [5:0] pc,
+    output reg ce
 );
-    reg [5:0]pc ;
+
     always @(posedge clk) begin
         if(rst)
             ce<=0;
