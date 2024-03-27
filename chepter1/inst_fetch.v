@@ -1,7 +1,7 @@
 module inst_fetch(
     input clk,
     input rst,
-    output inst_o
+    output [31:0]inst_o
 );
     wire ce;
     wire [5:0]addr;

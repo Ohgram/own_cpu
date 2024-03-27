@@ -1,0 +1,22 @@
+{D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/rom.v} {1 {vlog -work work -vopt -stats=none {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/rom.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/pc_reg.v} {1 {vlog -work work -vopt -stats=none {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/pc_reg.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module pc_reg
+
+Top level modules:
+	pc_reg
+
+} {} {}} {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/inst_fetch_tb.v} {1 {vlog -work work -vopt -stats=none {D:/OneDrive - mail.hfut.edu.cn/own CPU/my own cpu/chepter1/inst_fetch_tb.v}
+Model Technology ModelSim SE-64 vlog 10.7 Compiler 2017.12 Dec  7 2017
+-- Compiling module inst_fetch_tb
+
+Top level modules:
+	inst_fetch_tb
+
+} {} {}}
